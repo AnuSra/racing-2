@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-image: url(cargif.gif);
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas{
+    background-image: url(racingbackground.jpg);
+    background-position: center;
+    background-size: cover;
+}
